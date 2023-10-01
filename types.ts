@@ -1,3 +1,5 @@
+// src/types.ts
+
 export interface Autor {
     nome: string;
     cidade: string;
@@ -20,7 +22,3 @@ export interface Autor {
     active: boolean;
     votos: Voto[];
   }
-  
-  export type VotoType = 'UP' | 'DOWN';
-
-  export {};
