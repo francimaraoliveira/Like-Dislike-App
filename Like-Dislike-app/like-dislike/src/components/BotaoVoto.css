@@ -1,0 +1,9 @@
+/* src/components/BotaoVoto.css */
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+    
